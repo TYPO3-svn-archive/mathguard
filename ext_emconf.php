@@ -1,7 +1,7 @@
 <?php
 
 ########################################################################
-# Extension Manager/Repository config file for ext: "jm_recaptcha"
+# Extension Manager/Repository config file for ext: "mathguard"
 #
 # Auto generated 12-05-2009 10:38
 #
