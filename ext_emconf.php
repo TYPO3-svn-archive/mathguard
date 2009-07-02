@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext: "mathguard"
 #
-# Auto generated 12-05-2009 10:38
+# Auto generated 02-07-2009 09:16
 #
 # Manual updates:
 # Only the data in the array - anything else is removed by next write.
@@ -12,7 +12,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'MathGuard',
-	'description' => 'MathGuard captcha for TYPO3. Visit http://freshmeat.net/projects/mathguard/',
+	'description' => 'MathGuard spam protection for TYPO3. Visit http://freshmeat.net/projects/mathguard/',
 	'category' => 'fe',
 	'shy' => 0,
 	'version' => '1.0.0',
@@ -40,7 +40,9 @@ $EM_CONF[$_EXTKEY] = array(
 		'suggests' => array(
 		),
 	),
-	'_md5_values_when_last_written' => '',
+	'_md5_values_when_last_written' => 'a:5:{s:22:"class.tx_mathguard.php";s:4:"38bf";s:12:"ext_icon.gif";s:4:"1b05";s:14:"doc/manual.sxw";s:4:"236e";s:22:"res/ClassMathGuard.php";s:4:"5e96";s:17:"res/locallang.xml";s:4:"fee4";}',
+	'suggests' => array(
+	),
 );
 
 ?>
